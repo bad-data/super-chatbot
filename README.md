@@ -4,6 +4,7 @@ A simple and amusing chatbot: Publishes data through ROS nodes, controls arduino
 
 # Getting Started
 Within the repository is talkingbot.py
+
 Assure that a workspace is created and place it in src.
 
 # In CATKIN workspace:

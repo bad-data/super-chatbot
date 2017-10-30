@@ -15,5 +15,7 @@ source devel/setup.bash
 # Run chatbot:
 roscore
 
+(another terminal) rosrun chatbot talkingbot.py
+
 (another terminal) 
 rosrun rosserial_python serial_node.py /dev/ttyACM0 (whatever dev/ your arduino is)
